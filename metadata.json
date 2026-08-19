@@ -1,0 +1,6 @@
+{
+  "name": "Movie Hub",
+  "description": "A complete movie & web series discovery platform with custom user exploration, watchlists, and full admin management panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
